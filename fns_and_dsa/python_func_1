@@ -1,0 +1,6 @@
+def greet(name):
+    greeting_massage = f"hello {name}, good morning, how was your night."
+    print(greeting_massage)
+greet("Bob")
+greet("mma")
+greet("uko")
